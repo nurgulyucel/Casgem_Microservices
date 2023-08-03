@@ -1,0 +1,12 @@
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\bin\Debug\net6.0\Casgem_MicroServices.Shared.deps.json
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\bin\Debug\net6.0\Casgem_MicroServices.Shared.dll
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\bin\Debug\net6.0\Casgem_MicroServices.Shared.pdb
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.csproj.AssemblyReference.cache
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.AssemblyInfoInputs.cache
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.AssemblyInfo.cs
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.dll
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\refint\Casgem_MicroServices.Shared.dll
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\Casgem_MicroServices.Shared.pdb
+C:\Users\nyuce\source\repos\Casgem_MicroServices\Shared\Casgem_MicroServices.Shared\obj\Debug\net6.0\ref\Casgem_MicroServices.Shared.dll
