@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pewRUp2cKyafLwBItmBIwsw3VCRHd8WMQDWuIyLxT7o=",
+  "Source": "CasgemMicroservices.Payment",
+  "BasePath": "_content/CasgemMicroservices.Payment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

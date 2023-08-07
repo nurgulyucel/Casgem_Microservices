@@ -29,7 +29,7 @@ namespace CasgemMicroservices.Catalog.Services.CategoryServices
 
         public async Task<Response<NoContent>> DeleteCategoryAsync(string id)
         {
-            var value=await _categoryCollection.DeleteOneAsync(id);
+            var value=await _categoryCollection.DeleteOneAsync(x=>x.CategoryID==id);
             if (value.DeletedCount > 0)
             {
                 return Response<NoContent>.Success(204);

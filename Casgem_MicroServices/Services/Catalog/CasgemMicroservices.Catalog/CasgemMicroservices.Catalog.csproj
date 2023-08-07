@@ -17,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\..\Shared\Casgem_MicroServices.Shared\Casgem_MicroServices.Shared.csproj" />
   </ItemGroup>
 

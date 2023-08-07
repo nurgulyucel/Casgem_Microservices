@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wKNfIkMNm3JrTVGWud4odBotRiVu657mPClw1aXJykY=",
+  "Source": "CasgemMicroservices.Order",
+  "BasePath": "_content/CasgemMicroservices.Order",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

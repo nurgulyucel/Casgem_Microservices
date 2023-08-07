@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OxJnztB+ntcUcvBw6SIFTHZvxZBoEXSm2TgG2mufKaA=",
+  "Source": "CasgemMicroservices.Cargo",
+  "BasePath": "_content/CasgemMicroservices.Cargo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
